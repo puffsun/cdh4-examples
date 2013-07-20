@@ -1,3 +1,5 @@
+package ncdc;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -19,7 +21,7 @@ public class MaxTemperature {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
         if (args.length != 2) {
-            System.err.println("Usage: MaxTemperature <input path> <output path>");
+            System.err.println("Usage: ncdc.MaxTemperature <input path> <output path>");
             System.exit(-1);
         }
 

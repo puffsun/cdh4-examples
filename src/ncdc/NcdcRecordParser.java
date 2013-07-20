@@ -1,3 +1,5 @@
+package ncdc;
+
 import org.apache.hadoop.io.Text;
 
 import java.text.DateFormat;
