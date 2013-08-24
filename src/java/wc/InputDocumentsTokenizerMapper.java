@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  * Hold partial input words as well as its count in memory, until all input key-value pairs of the input
  * data split has been processed.
  * <p/>
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 7/10/13
  * Time: 8:17 PM
  */

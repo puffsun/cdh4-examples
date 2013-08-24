@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 /**
  * Keep reading until the whole document stream closed, then emit each term as well as its total count.
  * <p/>
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 7/10/13
  * Time: 7:56 PM
  */

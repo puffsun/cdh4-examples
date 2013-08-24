@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * Hadoop max temperature reducer class.
  *
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 6/17/13
  * Time: 11:38 PM
  */

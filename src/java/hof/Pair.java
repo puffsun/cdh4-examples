@@ -3,7 +3,7 @@ package hof;
 /**
  * Replace this line with class description.
  * <p/>
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 7/9/13
  * Time: 10:57 PM
  */

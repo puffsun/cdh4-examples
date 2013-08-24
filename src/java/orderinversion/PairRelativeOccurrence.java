@@ -10,7 +10,7 @@ import org.apache.hadoop.util.ToolRunner;
 /**
  * Replace this line with class description.
  * <p/>
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 7/13/13
  * Time: 11:04 AM
  */

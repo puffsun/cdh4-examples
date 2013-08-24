@@ -13,7 +13,7 @@ import java.io.IOException;
 /**
  * Driver class
  *
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 6/17/13
  * Time: 11:43 PM
  */
@@ -21,7 +21,7 @@ public class MaxTemperature {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
         if (args.length != 2) {
-            System.err.println("Usage: ncdc.MaxTemperature <input path> <output path>");
+            System.err.println("Usage: MaxTemperature <input path> <output path>");
             System.exit(-1);
         }
 

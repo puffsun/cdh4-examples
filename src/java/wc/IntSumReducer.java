@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * Replace this line with class description.
  * <p/>
- * User: George Sun
+ * AbstractUser: George Sun
  * Date: 7/10/13
  * Time: 7:52 PM
  */
