@@ -1,0 +1,1 @@
+Examples collection on [Apache Hadoop](http://hadoop.apache.org/), [HBase](https://hbase.apache.org/), which have been tested in [Cloudera CDH4](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html)
